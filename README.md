@@ -10,3 +10,5 @@ It had to be able to do the following:
 - [X] **S:** Store program data into file
 - [X] **L:** Load program data from file
 - [X] **O:** View guests Ordered alphabetically by name. (Do not use library sort routine)
+
+The workings of the programm can be tested with the "TrueTest.txt" file.
